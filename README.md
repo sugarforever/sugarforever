@@ -14,25 +14,6 @@
 - 📺 **Bilibili**: [五里墩茶社](https://space.bilibili.com/615957867/)
 - 🐦 **X/Twitter**: [@VerySmallWoods](https://x.com/verysmallwoods)
 
-## 🚀 我的开源项目
-
-### ⭐ [ChatOllama](https://github.com/sugarforever/chat-ollama/)
-
-> 基于大语言模型的开源聊天机器人平台
-
-**ChatOllama** 是一个功能强大的开源聊天机器人，具有以下特色：
-- 🤖 支持多种大语言模型
-- 📚 智能知识库管理
-- 🔧 易于部署和定制
-- 🌍 活跃的开源社区
-
-```bash
-# 快速开始
-git clone https://github.com/sugarforever/chat-ollama.git
-cd chat-ollama
-# 按照 README 说明进行安装
-```
-
 ## 📖 我的出版作品
 
 ### 🎉 **新书上市** - 《MCP开发从入门到实战》
@@ -52,6 +33,25 @@ cd chat-ollama
 📌 **好消息**: 海外出版工作正在进行中，敬请期待国际版发布！ 🌍
 
 这本书深入浅出地介绍了MCP（Model Context Protocol）的开发实践，从基础概念到实战应用，是MCP技术学习的必备指南。
+
+## 🚀 我的开源项目
+
+### ⭐ [ChatOllama](https://github.com/sugarforever/chat-ollama/)
+
+> 基于大语言模型的开源聊天机器人平台
+
+**ChatOllama** 是一个功能强大的开源聊天机器人，具有以下特色：
+- 🤖 支持多种大语言模型
+- 📚 智能知识库管理
+- 🔧 易于部署和定制
+- 🌍 活跃的开源社区
+
+```bash
+# 快速开始
+git clone https://github.com/sugarforever/chat-ollama.git
+cd chat-ollama
+# 按照 README 说明进行安装
+```
 
 ## 🛠️ 技术栈
 
